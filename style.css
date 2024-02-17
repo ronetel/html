@@ -1,0 +1,127 @@
+body{
+background-color: rgb(50, 38, 26);
+font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: relative;
+width: 1207px;
+height: 93px;
+left: 120px;
+top: 36px;
+
+}
+@import url('https://fonts.cdnfonts.com/css/inter');
+header{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 141px;
+
+font-weight: 500;
+font-size: 23px;
+line-height: 36px;
+}
+
+nav{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 65px;
+}
+nav a{
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: white;
+text-decoration: none;
+}
+.register p{
+color: #F9B985;
+}
+.register{
+border: 22px;
+border-radius: 1px;
+border-color: #F9B985;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+box-sizing: border-box;
+padding: 13px 12px;
+gap: 22px;
+width: 180px;
+height: 67px;
+border: 1px solid rgba(249, 185, 133, 0.23);
+border-radius: 16px;
+}
+
+main img{
+    position: relative;
+    top: 50px;
+    width: 691px;
+    height: 510px;
+}
+main{
+display: flex;
+align-items: center;
+}
+main h1{
+font-weight: 700;
+font-size: 55px;
+line-height: 20px;
+color: #FFFFFF;
+}
+.Programming{
+padding: 0px;
+font-weight: 700;
+font-size: 55px;
+line-height: 20px;
+color: #F9B985;
+}
+main p{
+
+width: 540px;
+height: 60px;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #FFFFFF;
+
+}
+.but{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 58px;
+
+width: 424px;
+height: 74px;
+}
+.but1{
+width: 197px;
+height: 74px;
+background: linear-gradient(104.85deg, #AF612D -27.27%, #FFA56A 117.63%);
+border-radius: 12px;
+border: none;
+
+font-weight: 500px;
+font-size: 20px;
+line-height: 44px;
+color: #FFFFFF;
+}
+.but2{
+box-sizing: border-box;
+width: 169px;
+height: 74px;
+background-color: rgb(50, 38, 26);
+border: 1.5px solid #E28C54;
+border-radius: 12px;
+
+font-weight: 500;
+font-size: 20px;
+line-height: 44px;
+color: #E28C54;
+}
+
